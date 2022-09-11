@@ -1,6 +1,6 @@
 # Todo app
 
-## [View](https://github.com/Vaswata/Project-2-Todo-App/) this site.
+## [View](https://vaswata-2-todo-list-6463c2.netlify.app/) this site.
 
 ![Design preview for the Todo app coding challenge](./images/LiveScreenShot.png)
 
@@ -23,4 +23,5 @@ We users will be able to:
 - Delete todos from the list
 - Filter by all/active/complete todos
 - Clear all completed todos
+- Toggle Light/Dark Mode
 - **Bonus**: Drag and drop to reorder items on the list
