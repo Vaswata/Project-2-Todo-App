@@ -24,7 +24,3 @@ We users will be able to:
 - Filter by all/active/complete todos
 - Clear all completed todos
 - **Bonus**: Drag and drop to reorder items on the list
-
-## Live Site
-
-View site here - [Live Site](https://github.com/Vaswata/Project-2-Todo-App/)
